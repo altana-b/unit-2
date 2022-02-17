@@ -1,0 +1,36 @@
+body {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-indent: 25px;
+    width:90%;
+}
+
+h1 {
+    color:#210963;
+    text-indent: 2px;
+    font-size: 40px;
+}
+
+h2 {
+    color:#210963;
+    text-indent: 2px;
+    text-decoration-line: underline;
+}
+
+h3 {
+    text-indent: 13px;
+}
+
+ul {
+    list-style-position: inside;
+    padding-left: 0;
+    line-height: 170%;
+    text-indent: -25px;
+    margin-left: 25px;
+  }
+
+
+#name
+{
+    font-weight:bold;
+    }
+/* This is a single-line comment */
